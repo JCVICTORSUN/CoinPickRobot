@@ -3,17 +3,17 @@ A robot can detects and pick up coins within a predefined perimeter defined by a
 
 Group members:
 
-Jiajun Gao (16023376)
+Jiajun Gao
 
-Tenna Yuan (15253966)
+Tenna Yuan
 
-Tianqi Hao (67740316)
+Tianqi Hao
 
-Xinyan Qi (57890253)
+Xinyan Qi
 
-Rayna Liu (88484837)
+Rayna Liu
 
-Victor Sun (36182566)
+Victor Sun
 
 
 
